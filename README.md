@@ -3,6 +3,7 @@
 
 
 Site sobre a artista Greentea Peng feito em HTML.  
+- Somente PC por enquanto.
 <br>
 
 <blockquote>1. Top:</blockquote>  
@@ -26,7 +27,7 @@ Site sobre a artista Greentea Peng feito em HTML.
 
 <blockquote>3. Songs:</blockquote>
 
-![3]![songs](https://user-images.githubusercontent.com/61359076/152201414-99d7c158-45f4-4308-b7fa-707ecf4dc96a.png)
+![songs](https://user-images.githubusercontent.com/61359076/152201414-99d7c158-45f4-4308-b7fa-707ecf4dc96a.png)
 <div align="center">
 <img src="(https://user-images.githubusercontent.com/61359076/152201414-99d7c158-45f4-4308-b7fa-707ecf4dc96a.png)" width="200px" />
 </div>
@@ -36,21 +37,21 @@ Site sobre a artista Greentea Peng feito em HTML.
 
 
 
-<blockquote>5. Videos:</blockquote>
+<blockquote>4. Videos:</blockquote>
 
 
-![videos](https://user-images.githubusercontent.com/61359076/152201425-fbaa5e87-a1ee-4775-8d5f-b02911328f01.png)
+![videos](https://user-images.githubusercontent.com/61359076/152203222-5813d8ea-8c15-46eb-ba53-53c97267afbe.png)
 <div align="center">
-<img src="(https://user-images.githubusercontent.com/61359076/152201425-fbaa5e87-a1ee-4775-8d5f-b02911328f01.png)" width="200px" />
+<img src="(https://user-images.githubusercontent.com/61359076/152203222-5813d8ea-8c15-46eb-ba53-53c97267afbe.png)" width="200px" />
 </div>
 <br>
 <br>
 
-<blockquote>4. Bottom:</blockquote>
+<blockquote>5. Bottom:</blockquote>
 
-![bottom](https://user-images.githubusercontent.com/61359076/152201434-8d6416b2-4ed2-4fe2-8eed-f16415b3f949.png)
+![bottom](https://user-images.githubusercontent.com/61359076/152203230-fdf43987-1a7c-4fb5-8c2f-fa73ba6d1639.png)
 <div align="center">
-<img src="(https://user-images.githubusercontent.com/61359076/152201434-8d6416b2-4ed2-4fe2-8eed-f16415b3f949.png)" width="200px" />
+<img src="(https://user-images.githubusercontent.com/61359076/152203230-fdf43987-1a7c-4fb5-8c2f-fa73ba6d1639.png)" width="200px" />
 </div>
 <br>
 
