@@ -3,7 +3,7 @@
 
 
 Site sobre a artista Greentea Peng feito em HTML.  
-- Somente PC por enquanto.
+- Somente PC
 <br>
 
 <blockquote>1. Top:</blockquote>  
